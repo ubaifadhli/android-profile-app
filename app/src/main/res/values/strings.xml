@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="login">Login</string>
+    <string name="login_header">Login Page</string>
+    <string name="username_text">Username : %1$s</string>
+    <string name="password_text">Password : %1$s</string>
+    <string name="nrp_text">NRP : %1$s</string>
+    <string name="hello_username_text">Hello, %1$s</string>
+</resources>
